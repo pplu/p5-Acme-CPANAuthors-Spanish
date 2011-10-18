@@ -3,15 +3,20 @@ package Acme::CPANAuthors::Spanish;
 use warnings;
 use strict;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
+                                  BREQUESEN => 'Bernat Requesens',
                                   CASIANO   => 'Casiano Rodríguez-León',
                                   DIEGOK    => 'Diego Kuperman',
                                   ENELL     => 'Enrique Nell',
-                                  EXPLORER  => 'Joaquín Ferrero',
+                                  EXPLORER  => 'Joaquín Ferrer',
+                                  FMERGES   => 'Florian Merges',
                                   FXN       => 'Xavier Noria',
-                                  JMERELO   => 'J. J. Merelo-Guervós',
+                                  JLMARTIN  => 'Jose Luis Martínez'
+                                  JOSERODR  => 'Jose A. Rodríguez',
+                                  JMERELO   => 'J. J. Merelo-Guervós'
+                                  MRUIZ     => 'Miquel Ruiz',
                                   NES       => 'Enrique F. Castañón',
                                   NITO      => 'Nito Martínez',
                                   PECO      => 'Juan José San Martín',
